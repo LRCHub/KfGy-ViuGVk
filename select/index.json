@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "halca『ロマンティックマニフェスト』Music Video（『かぐや様は告らせたい-ファーストキッスは終わらない-』挿入歌）",
+  "base_artist": "halca",
+  "createdAt": "2025-12-07T07:10:03.197993Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Halcali_やさしい気持ち",
+      "artist": "Halcali",
+      "has_synced": false,
+      "path": "select/pl_01_Halcali_やさしい気持ち_Halcali.txt"
+    }
+  ]
+}
